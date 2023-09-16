@@ -35,14 +35,6 @@ ol {
   list-style-type: none;
 }
 
-.pc {
-  display: block;
-}
-
-.sp {
-  display: none;
-}
-
 body {
   width: 100%;
   background-color: #f5f5f5;
